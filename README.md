@@ -1,2 +1,2 @@
 my first read me
-Updating my finle to a more exciting level
+Updating my file to a more exciting level
