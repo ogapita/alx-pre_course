@@ -3,4 +3,8 @@
 =======
 #!/bin/bash
 >>>>>>> a20e01b8eb2a00afc3cc0821d818fb395a31e18f
+<<<<<<< HEAD
 echo "ALX School is so cool"
+=======
+echo "ALX School"
+>>>>>>> update_script
